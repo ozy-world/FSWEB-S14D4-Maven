@@ -1,5 +1,7 @@
 package org.example.model;
 
+// Sprint 14 - Gun 4
+
 public class Store {
     public static void main(String[] args) {
         ProductForSale[] products = {
